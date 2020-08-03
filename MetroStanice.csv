@@ -1,0 +1,474 @@
+﻿URL,OBJECTID,NAME,the_geom,lon,lat
+http://web.mta.info/nyct/service/,1,Astor Pl,POINT,-73.99107,40.73
+http://web.mta.info/nyct/service/,2,Canal St,POINT,-74.00019,40.72
+http://web.mta.info/nyct/service/,3,50th St,POINT,-73.98385,40.76
+http://web.mta.info/nyct/service/,4,Bergen St,POINT,-73.975,40.68
+http://web.mta.info/nyct/service/,5,Pennsylvania Ave,POINT,-73.89489,40.66
+http://web.mta.info/nyct/service/,6,238th St,POINT,-73.90087,40.88
+http://web.mta.info/nyct/service/,7,Cathedral Pkwy (110th St),POINT,-73.95807,40.8
+http://web.mta.info/nyct/service/,8,Kingston - Throop Aves,POINT,-73.94086,40.68
+http://web.mta.info/nyct/service/,9,65th St,POINT,-73.89879,40.75
+http://web.mta.info/nyct/service/,10,36th St,POINT,-73.92902,40.75
+http://web.mta.info/nyct/service/,11,Delancey St - Essex St,POINT,-73.98741,40.72
+http://web.mta.info/nyct/service/,12,Van Siclen Ave,POINT,-73.89166,40.68
+http://web.mta.info/nyct/service/,13,Norwood Ave,POINT,-73.87963,40.68
+http://web.mta.info/nyct/service/,14,104th-102nd Sts,POINT,-73.84444,40.7
+http://web.mta.info/nyct/service/,15,DeKalb Ave,POINT,-73.98177,40.69
+http://web.mta.info/nyct/service/,16,Beach 105th St,POINT,-73.82758,40.58
+http://web.mta.info/nyct/service/,17,Beach 90th St,POINT,-73.81365,40.59
+http://web.mta.info/nyct/service/,18,Freeman St,POINT,-73.89175,40.83
+http://web.mta.info/nyct/service/,19,Intervale Ave,POINT,-73.89662,40.82
+http://web.mta.info/nyct/service/,20,182nd-183rd Sts,POINT,-73.90074,40.86
+http://web.mta.info/nyct/service/,21,174th-175th Sts,POINT,-73.91014,40.85
+http://web.mta.info/nyct/service/,22,167th St,POINT,-73.91843,40.83
+http://web.mta.info/nyct/service/,23,Mets - Willets Point,POINT,-73.84562,40.75
+http://web.mta.info/nyct/service/,24,Junction Blvd,POINT,-73.86953,40.75
+http://web.mta.info/nyct/service/,25,Flushing - Main St,POINT,-73.83003,40.76
+http://web.mta.info/nyct/service/,26,Buhre Ave,POINT,-73.83257,40.85
+http://web.mta.info/nyct/service/,27,3rd Ave - 138th St,POINT,-73.92614,40.81
+http://web.mta.info/nyct/service/,28,Castle Hill Ave,POINT,-73.85122,40.83
+http://web.mta.info/nyct/service/,29,Brooklyn Bridge - City Hall,POINT,-74.00413,40.71
+http://web.mta.info/nyct/service/,30,Zerega Ave,POINT,-73.84704,40.84
+http://web.mta.info/nyct/service/,31,Grand Central - 42nd St,POINT,-73.97671,40.75
+http://web.mta.info/nyct/service/,32,33rd St,POINT,-73.98208,40.75
+http://web.mta.info/nyct/service/,33,96th St,POINT,-73.95107,40.79
+http://web.mta.info/nyct/service/,34,77th St,POINT,-73.95987,40.77
+http://web.mta.info/nyct/service/,35,Chauncey St,POINT,-73.91038,40.68
+http://web.mta.info/nyct/service/,36,Union St,POINT,-73.98311,40.68
+http://web.mta.info/nyct/service/,37,Elmhurst Ave,POINT,-73.88203,40.74
+http://web.mta.info/nyct/service/,38,Ralph Ave,POINT,-73.92079,40.68
+http://web.mta.info/nyct/service/,39,Pelham Pkwy,POINT,-73.86748,40.86
+http://web.mta.info/nyct/service/,40,Gun Hill Rd,POINT,-73.86613,40.88
+http://web.mta.info/nyct/service/,41,Nereid Ave (238 St),POINT,-73.85432,40.9
+http://web.mta.info/nyct/service/,42,Franklin Ave,POINT,-73.9581,40.67
+http://web.mta.info/nyct/service/,43,Simpson St,POINT,-73.89307,40.82
+http://web.mta.info/nyct/service/,44,Bronx Park East,POINT,-73.86836,40.85
+http://web.mta.info/nyct/service/,45,Winthrop St,POINT,-73.95008,40.66
+http://web.mta.info/nyct/service/,46,Van Siclen Ave,POINT,-73.8894,40.67
+http://web.mta.info/nyct/service/,47,149th St - Grand Concourse,POINT,-73.92738,40.82
+http://web.mta.info/nyct/service/,48,161st St - Yankee Stadium,POINT,-73.92569,40.83
+http://web.mta.info/nyct/service/,49,Lexington Ave - 59th St,POINT,-73.96797,40.76
+http://web.mta.info/nyct/service/,50,E 149th St,POINT,-73.9041,40.81
+http://web.mta.info/nyct/service/,51,Morrison Av - Soundview,POINT,-73.87452,40.83
+http://web.mta.info/nyct/service/,52,Whitlock Ave,POINT,-73.88628,40.83
+http://web.mta.info/nyct/service/,53,St Lawrence Ave,POINT,-73.86762,40.83
+http://web.mta.info/nyct/service/,54,Woodside - 61st St,POINT,-73.90298,40.75
+http://web.mta.info/nyct/service/,55,Far Rockaway - Mott Ave,POINT,-73.7554,40.6
+http://web.mta.info/nyct/service/,56,72nd St,POINT,-73.97634,40.78
+http://web.mta.info/nyct/service/,57,96th St,POINT,-73.9646,40.79
+http://web.mta.info/nyct/service/,58,168th St,POINT,-73.93956,40.84
+http://web.mta.info/nyct/service/,59,Kingsbridge Rd,POINT,-73.89351,40.87
+http://web.mta.info/nyct/service/,60,42nd St - Bryant Pk,POINT,-73.98459,40.75
+http://web.mta.info/nyct/service/,61,Prospect Park,POINT,-73.96203,40.66
+http://web.mta.info/nyct/service/,62,55th St,POINT,-73.99535,40.63
+http://web.mta.info/nyct/service/,63,Jamaica - Van Wyck,POINT,-73.81701,40.7
+http://web.mta.info/nyct/service/,64,Kew Gardens - Union Tpke,POINT,-73.83037,40.71
+http://web.mta.info/nyct/service/,65,Sutphin Blvd - Archer Av,POINT,-73.808,40.7
+http://web.mta.info/nyct/service/,66,Court Sq - 23rd St,POINT,-73.94605,40.75
+http://web.mta.info/nyct/service/,67,67th Ave,POINT,-73.85286,40.73
+http://web.mta.info/nyct/service/,68,Grand Ave - Newtown,POINT,-73.87722,40.74
+http://web.mta.info/nyct/service/,69,Ditmas Ave,POINT,-73.97817,40.64
+http://web.mta.info/nyct/service/,70,Classon Ave,POINT,-73.95999,40.69
+http://web.mta.info/nyct/service/,71,Broadway,POINT,-73.95031,40.71
+http://web.mta.info/nyct/service/,72,Lorimer St,POINT,-73.95025,40.71
+http://web.mta.info/nyct/service/,73,Sutter Ave,POINT,-73.90192,40.67
+http://web.mta.info/nyct/service/,74,Wilson Ave,POINT,-73.90396,40.69
+http://web.mta.info/nyct/service/,75,Halsey St,POINT,-73.91664,40.69
+http://web.mta.info/nyct/service/,76,Lorimer St,POINT,-73.94735,40.7
+http://web.mta.info/nyct/service/,77,8th Ave,POINT,-74.01152,40.63
+http://web.mta.info/nyct/service/,78,36th Ave,POINT,-73.92986,40.76
+http://web.mta.info/nyct/service/,79,Broadway,POINT,-73.92582,40.76
+http://web.mta.info/nyct/service/,80,Times Sq - 42nd St,POINT,-73.98677,40.75
+http://web.mta.info/nyct/service/,81,Grand Central - 42nd St,POINT,-73.97919,40.75
+http://web.mta.info/nyct/service/,82,Park Pl,POINT,-73.95762,40.67
+http://web.mta.info/nyct/service/,83,111th St,POINT,-73.83216,40.68
+http://web.mta.info/nyct/service/,84,W 4th St - Washington Sq (Lower),POINT,-74.00031,40.73
+http://web.mta.info/nyct/service/,85,51st St,POINT,-73.97192,40.76
+http://web.mta.info/nyct/service/,86,86th St,POINT,-73.97622,40.79
+http://web.mta.info/nyct/service/,87,233rd St,POINT,-73.85736,40.89
+http://web.mta.info/nyct/service/,88,66th St - Lincoln Ctr,POINT,-73.98221,40.77
+http://web.mta.info/nyct/service/,89,Hunts Point Ave,POINT,-73.89055,40.82
+http://web.mta.info/nyct/service/,90,Canal St,POINT,-74.00628,40.72
+http://web.mta.info/nyct/service/,91,Middletown Rd,POINT,-73.83632,40.84
+http://web.mta.info/nyct/service/,92,23rd St,POINT,-73.9866,40.74
+http://web.mta.info/nyct/service/,93,Court Sq,POINT,-73.94526,40.75
+http://web.mta.info/nyct/service/,94,59th St - Columbus Circle,POINT,-73.98193,40.77
+http://web.mta.info/nyct/service/,95,Hunters Point Ave,POINT,-73.94892,40.74
+http://web.mta.info/nyct/service/,96,23rd St,POINT,-73.99566,40.74
+http://web.mta.info/nyct/service/,97,Houston St,POINT,-74.00537,40.73
+http://web.mta.info/nyct/service/,98,104th St,POINT,-73.83768,40.68
+http://web.mta.info/nyct/service/,99,Broad Channel,POINT,-73.81583,40.61
+http://web.mta.info/nyct/service/,100,Ocean Pkwy,POINT,-73.9685,40.58
+http://web.mta.info/nyct/service/,101,Vernon Blvd - Jackson Ave,POINT,-73.95358,40.74
+http://web.mta.info/nyct/service/,102,68th St - Hunter College,POINT,-73.96387,40.77
+http://web.mta.info/nyct/service/,103,Queensboro Plz,POINT,-73.94016,40.75
+http://web.mta.info/nyct/service/,104,Rockaway Blvd,POINT,-73.84385,40.68
+http://web.mta.info/nyct/service/,105,Union Sq - 14th St,POINT,-73.98995,40.73
+http://web.mta.info/nyct/service/,106,Bedford - Nostrand Aves,POINT,-73.95352,40.69
+http://web.mta.info/nyct/service/,107,15th St - Prospect Park,POINT,-73.97974,40.66
+http://web.mta.info/nyct/service/,108,7th Ave,POINT,-73.98025,40.67
+http://web.mta.info/nyct/service/,109,Ft Hamilton Pkwy,POINT,-73.97578,40.65
+http://web.mta.info/nyct/service/,110,Church Ave,POINT,-73.97972,40.64
+http://web.mta.info/nyct/service/,111,Beverly Rd,POINT,-73.96436,40.64
+http://web.mta.info/nyct/service/,112,Church Ave,POINT,-73.96288,40.65
+http://web.mta.info/nyct/service/,113,Newkirk Ave,POINT,-73.96269,40.64
+http://web.mta.info/nyct/service/,114,Parkside Ave,POINT,-73.96145,40.66
+http://web.mta.info/nyct/service/,115,Grand Army Plaza,POINT,-73.97096,40.68
+http://web.mta.info/nyct/service/,116,Atlantic Av - Barclay's Center,POINT,-73.97755,40.68
+http://web.mta.info/nyct/service/,117,Rockaway Ave,POINT,-73.91195,40.68
+http://web.mta.info/nyct/service/,118,Fulton St,POINT,-73.97537,40.69
+http://web.mta.info/nyct/service/,119,Clinton - Washington Aves,POINT,-73.9668,40.69
+http://web.mta.info/nyct/service/,120,7th Ave,POINT,-73.97285,40.68
+http://web.mta.info/nyct/service/,121,Atlantic Av - Barclay's Center,POINT,-73.97678,40.68
+http://web.mta.info/nyct/service/,122,Atlantic Av - Barclay's Center,POINT,-73.97881,40.68
+http://web.mta.info/nyct/service/,123,Borough Hall,POINT,-73.99015,40.69
+http://web.mta.info/nyct/service/,124,Aqueduct Racetrack,POINT,-73.83592,40.67
+http://web.mta.info/nyct/service/,125,Morris Park,POINT,-73.8605,40.85
+http://web.mta.info/nyct/service/,126,Pelham Pkwy,POINT,-73.85536,40.86
+http://web.mta.info/nyct/service/,127,Nostrand Ave,POINT,-73.95043,40.68
+http://web.mta.info/nyct/service/,128,Nevins St,POINT,-73.98041,40.69
+http://web.mta.info/nyct/service/,129,Eastern Pkwy - Bklyn Museum,POINT,-73.96422,40.67
+http://web.mta.info/nyct/service/,130,Beverly Rd,POINT,-73.94885,40.65
+http://web.mta.info/nyct/service/,131,Church Ave,POINT,-73.94946,40.65
+http://web.mta.info/nyct/service/,132,Newkirk Ave,POINT,-73.9483,40.64
+http://web.mta.info/nyct/service/,133,Brooklyn College - Flatbush Ave,POINT,-73.94754,40.63
+http://web.mta.info/nyct/service/,134,Sterling St,POINT,-73.95073,40.66
+http://web.mta.info/nyct/service/,135,Crown Hts - Utica Ave,POINT,-73.93293,40.67
+http://web.mta.info/nyct/service/,136,Kingston Ave,POINT,-73.94216,40.67
+http://web.mta.info/nyct/service/,137,Nassau Ave,POINT,-73.95118,40.72
+http://web.mta.info/nyct/service/,138,Greenpoint Ave,POINT,-73.95443,40.73
+http://web.mta.info/nyct/service/,139,Marcy Ave,POINT,-73.95783,40.71
+http://web.mta.info/nyct/service/,140,Hewes St,POINT,-73.95349,40.71
+http://web.mta.info/nyct/service/,141,138th St - Grand Concourse,POINT,-73.92985,40.81
+http://web.mta.info/nyct/service/,142,5th Ave - 53rd St,POINT,-73.97525,40.76
+http://web.mta.info/nyct/service/,143,Lexington Ave - 53rd St,POINT,-73.96907,40.76
+http://web.mta.info/nyct/service/,144,28th St,POINT,-73.9887,40.75
+http://web.mta.info/nyct/service/,145,Herald Sq - 34th St,POINT,-73.98794,40.75
+http://web.mta.info/nyct/service/,146,1st Ave,POINT,-73.98168,40.73
+http://web.mta.info/nyct/service/,147,Times Sq - 42nd St,POINT,-73.98623,40.76
+http://web.mta.info/nyct/service/,148,Metropolitan Ave,POINT,-73.95142,40.71
+http://web.mta.info/nyct/service/,149,Grand St,POINT,-73.9405,40.71
+http://web.mta.info/nyct/service/,150,Graham Ave,POINT,-73.94394,40.71
+http://web.mta.info/nyct/service/,151,Bedford Ave,POINT,-73.95666,40.72
+http://web.mta.info/nyct/service/,152,Montrose Ave,POINT,-73.93979,40.71
+http://web.mta.info/nyct/service/,153,Long Island City - Court Sq,POINT,-73.94382,40.75
+http://web.mta.info/nyct/service/,154,21st St,POINT,-73.9496,40.74
+http://web.mta.info/nyct/service/,155,39th Ave,POINT,-73.93285,40.75
+http://web.mta.info/nyct/service/,156,145th St,POINT,-73.95036,40.83
+http://web.mta.info/nyct/service/,157,157th St,POINT,-73.94489,40.83
+http://web.mta.info/nyct/service/,158,96th St,POINT,-73.97232,40.79
+http://web.mta.info/nyct/service/,159,103rd St,POINT,-73.96838,40.8
+http://web.mta.info/nyct/service/,160,Central Park North (110th St),POINT,-73.95182,40.8
+http://web.mta.info/nyct/service/,161,103rd St,POINT,-73.96137,40.8
+http://web.mta.info/nyct/service/,162,72nd St,POINT,-73.98197,40.78
+http://web.mta.info/nyct/service/,163,81st St,POINT,-73.9721,40.78
+http://web.mta.info/nyct/service/,164,75th Ave,POINT,-73.83692,40.72
+http://web.mta.info/nyct/service/,165,86th St,POINT,-73.96883,40.79
+http://web.mta.info/nyct/service/,166,Cathedral Pkwy (110th St),POINT,-73.96685,40.8
+http://web.mta.info/nyct/service/,167,116th St - Columbia University,POINT,-73.96411,40.81
+http://web.mta.info/nyct/service/,168,125th St,POINT,-73.9455,40.81
+http://web.mta.info/nyct/service/,169,135th St,POINT,-73.94077,40.81
+http://web.mta.info/nyct/service/,170,116th St,POINT,-73.94963,40.8
+http://web.mta.info/nyct/service/,171,Tremont Ave,POINT,-73.90523,40.85
+http://web.mta.info/nyct/service/,172,137th St - City College,POINT,-73.95368,40.82
+http://web.mta.info/nyct/service/,173,145th St,POINT,-73.93624,40.82
+http://web.mta.info/nyct/service/,174,176th St,POINT,-73.91179,40.85
+http://web.mta.info/nyct/service/,175,Burnside Ave,POINT,-73.90768,40.85
+http://web.mta.info/nyct/service/,176,170th St,POINT,-73.9134,40.84
+http://web.mta.info/nyct/service/,177,168th St,POINT,-73.94013,40.84
+http://web.mta.info/nyct/service/,178,181st St,POINT,-73.9336,40.85
+http://web.mta.info/nyct/service/,179,191st St,POINT,-73.92941,40.86
+http://web.mta.info/nyct/service/,180,175th St,POINT,-73.9397,40.85
+http://web.mta.info/nyct/service/,181,Beach 44th St,POINT,-73.77601,40.59
+http://web.mta.info/nyct/service/,182,Beach 60th St,POINT,-73.78852,40.59
+http://web.mta.info/nyct/service/,183,Beach 98th St,POINT,-73.82052,40.59
+http://web.mta.info/nyct/service/,184,Rockaway Park - Beach 116 St,POINT,-73.83559,40.58
+http://web.mta.info/nyct/service/,185,Beach 36th St,POINT,-73.76817,40.6
+http://web.mta.info/nyct/service/,186,Beach 25th St,POINT,-73.76135,40.6
+http://web.mta.info/nyct/service/,187,Parsons Blvd,POINT,-73.80329,40.71
+http://web.mta.info/nyct/service/,188,169th St,POINT,-73.79347,40.71
+http://web.mta.info/nyct/service/,189,103rd St - Corona Plaza,POINT,-73.8627,40.75
+http://web.mta.info/nyct/service/,190,111th St,POINT,-73.85533,40.75
+http://web.mta.info/nyct/service/,191,63rd Dr - Rego Park,POINT,-73.86162,40.73
+http://web.mta.info/nyct/service/,192,Grant Ave,POINT,-73.86505,40.68
+http://web.mta.info/nyct/service/,193,79th St,POINT,-73.97992,40.78
+http://web.mta.info/nyct/service/,194,Atlantic Ave,POINT,-73.9031,40.68
+http://web.mta.info/nyct/service/,195,Christopher St - Sheridan Sq,POINT,-74.00291,40.73
+http://web.mta.info/nyct/service/,196,Ozone Park - Lefferts Blvd,POINT,-73.8258,40.69
+http://web.mta.info/nyct/service/,197,Times Sq - 42nd St,POINT,-73.98769,40.76
+http://web.mta.info/nyct/service/,198,W 8th St - NY Aquarium,POINT,-73.97596,40.58
+http://web.mta.info/nyct/service/,199,28th St,POINT,-73.99337,40.75
+http://web.mta.info/nyct/service/,200,28th St,POINT,-73.98426,40.74
+http://web.mta.info/nyct/service/,201,Pelham Bay Park,POINT,-73.82812,40.85
+http://web.mta.info/nyct/service/,202,Westchester Sq - E Tremont Ave,POINT,-73.84295,40.84
+http://web.mta.info/nyct/service/,203,18th St,POINT,-73.99787,40.74
+http://web.mta.info/nyct/service/,204,Grand Central - 42nd St,POINT,-73.97604,40.75
+http://web.mta.info/nyct/service/,205,Beach 67th St,POINT,-73.79692,40.59
+http://web.mta.info/nyct/service/,206,W 4th St - Washington Sq (Upper),POINT,-74.0005,40.73
+http://web.mta.info/nyct/service/,207,85th St - Forest Pky,POINT,-73.86009,40.69
+http://web.mta.info/nyct/service/,208,Woodhaven Blvd,POINT,-73.85205,40.69
+http://web.mta.info/nyct/service/,209,111th St,POINT,-73.83679,40.7
+http://web.mta.info/nyct/service/,210,121st St,POINT,-73.82835,40.7
+http://web.mta.info/nyct/service/,211,Halsey St,POINT,-73.90393,40.7
+http://web.mta.info/nyct/service/,212,Myrtle - Wyckoff Aves,POINT,-73.91098,40.7
+http://web.mta.info/nyct/service/,213,New Lots Ave,POINT,-73.88411,40.67
+http://web.mta.info/nyct/service/,214,Van Siclen Ave,POINT,-73.89036,40.67
+http://web.mta.info/nyct/service/,215,Cleveland St,POINT,-73.88519,40.68
+http://web.mta.info/nyct/service/,216,Livonia Ave,POINT,-73.90056,40.66
+http://web.mta.info/nyct/service/,217,Junius St,POINT,-73.90245,40.66
+http://web.mta.info/nyct/service/,218,Rockaway Ave,POINT,-73.90896,40.66
+http://web.mta.info/nyct/service/,219,Canarsie - Rockaway Pkwy,POINT,-73.90185,40.65
+http://web.mta.info/nyct/service/,220,E 105th St,POINT,-73.89955,40.65
+http://web.mta.info/nyct/service/,221,Saratoga Ave,POINT,-73.91633,40.66
+http://web.mta.info/nyct/service/,222,Sutter Ave - Rutland Road,POINT,-73.92252,40.66
+http://web.mta.info/nyct/service/,223,New Lots Ave,POINT,-73.89928,40.66
+http://web.mta.info/nyct/service/,224,Broadway Junction,POINT,-73.90429,40.68
+http://web.mta.info/nyct/service/,225,Alabama Ave,POINT,-73.89853,40.68
+http://web.mta.info/nyct/service/,226,Shepherd Ave,POINT,-73.88075,40.67
+http://web.mta.info/nyct/service/,227,Crescent St,POINT,-73.87393,40.68
+http://web.mta.info/nyct/service/,228,Cypress Hills,POINT,-73.87332,40.69
+http://web.mta.info/nyct/service/,229,75th St - Eldert Ln,POINT,-73.86729,40.69
+http://web.mta.info/nyct/service/,230,69th St,POINT,-73.8964,40.75
+http://web.mta.info/nyct/service/,231,74th St - Broadway,POINT,-73.89121,40.75
+http://web.mta.info/nyct/service/,232,Woodhaven Blvd - Queens Mall,POINT,-73.86943,40.73
+http://web.mta.info/nyct/service/,233,Myrtle - Wyckoff Aves,POINT,-73.91218,40.7
+http://web.mta.info/nyct/service/,234,Seneca Ave,POINT,-73.90758,40.7
+http://web.mta.info/nyct/service/,235,DeKalb Ave,POINT,-73.91823,40.7
+http://web.mta.info/nyct/service/,236,52nd St,POINT,-73.91255,40.74
+http://web.mta.info/nyct/service/,237,46th St,POINT,-73.91352,40.76
+http://web.mta.info/nyct/service/,238,Northern Blvd,POINT,-73.90607,40.75
+http://web.mta.info/nyct/service/,239,46th St,POINT,-73.91844,40.74
+http://web.mta.info/nyct/service/,240,82nd St - Jackson Hts,POINT,-73.8837,40.75
+http://web.mta.info/nyct/service/,241,90th St - Elmhurst Av,POINT,-73.87661,40.75
+http://web.mta.info/nyct/service/,242,Howard Beach - JFK Airport,POINT,-73.8303,40.66
+http://web.mta.info/nyct/service/,243,Aqueduct - North Conduit Av,POINT,-73.83406,40.67
+http://web.mta.info/nyct/service/,244,Briarwood - Van Wyck Blvd,POINT,-73.82069,40.71
+http://web.mta.info/nyct/service/,245,Forest Hills - 71st Av,POINT,-73.84452,40.72
+http://web.mta.info/nyct/service/,246,Sutphin Blvd,POINT,-73.81083,40.71
+http://web.mta.info/nyct/service/,247,Jamaica Ctr - Parsons / Archer,POINT,-73.8011,40.7
+http://web.mta.info/nyct/service/,248,225th St,POINT,-73.86021,40.89
+http://web.mta.info/nyct/service/,249,Elder Ave,POINT,-73.87916,40.83
+http://web.mta.info/nyct/service/,250,Longwood Ave,POINT,-73.89643,40.82
+http://web.mta.info/nyct/service/,251,Astoria Blvd,POINT,-73.9181,40.77
+http://web.mta.info/nyct/service/,252,Astoria - Ditmars Blvd,POINT,-73.91203,40.78
+http://web.mta.info/nyct/service/,253,Jackson Ave,POINT,-73.9077,40.82
+http://web.mta.info/nyct/service/,254,Prospect Ave,POINT,-73.90178,40.82
+http://web.mta.info/nyct/service/,255,Cypress Ave,POINT,-73.91404,40.81
+http://web.mta.info/nyct/service/,256,174th St,POINT,-73.88769,40.84
+http://web.mta.info/nyct/service/,257,Allerton Ave,POINT,-73.86723,40.87
+http://web.mta.info/nyct/service/,258,E 143rd St - St Mary's St,POINT,-73.90766,40.81
+http://web.mta.info/nyct/service/,259,Kingsbridge Rd,POINT,-73.89717,40.87
+http://web.mta.info/nyct/service/,260,Bedford Park Blvd - Lehman College,POINT,-73.89006,40.87
+http://web.mta.info/nyct/service/,261,Harlem - 148 St,POINT,-73.93647,40.82
+http://web.mta.info/nyct/service/,262,Mt Eden Ave,POINT,-73.91468,40.84
+http://web.mta.info/nyct/service/,263,Fordham Rd,POINT,-73.89775,40.86
+http://web.mta.info/nyct/service/,264,170th St,POINT,-73.91779,40.84
+http://web.mta.info/nyct/service/,265,Bedford Park Blvd,POINT,-73.88714,40.87
+http://web.mta.info/nyct/service/,266,Marble Hill - 225th St,POINT,-73.90983,40.87
+http://web.mta.info/nyct/service/,267,231st St,POINT,-73.90483,40.88
+http://web.mta.info/nyct/service/,268,215th St,POINT,-73.91528,40.87
+http://web.mta.info/nyct/service/,269,207th St,POINT,-73.91882,40.86
+http://web.mta.info/nyct/service/,270,Inwood - 207th St,POINT,-73.9199,40.87
+http://web.mta.info/nyct/service/,271,Van Cortlandt Park - 242nd St,POINT,-73.89858,40.89
+http://web.mta.info/nyct/service/,272,West Farms Sq - E Tremont Av,POINT,-73.87996,40.84
+http://web.mta.info/nyct/service/,273,219th St,POINT,-73.86251,40.88
+http://web.mta.info/nyct/service/,274,Mosholu Pkwy,POINT,-73.88465,40.88
+http://web.mta.info/nyct/service/,275,Norwood - 205th St,POINT,-73.87885,40.87
+http://web.mta.info/nyct/service/,276,Burke Ave,POINT,-73.86705,40.87
+http://web.mta.info/nyct/service/,277,Baychester Ave,POINT,-73.83859,40.88
+http://web.mta.info/nyct/service/,278,Eastchester - Dyre Ave,POINT,-73.83083,40.89
+http://web.mta.info/nyct/service/,279,Jamaica - 179th St,POINT,-73.78382,40.71
+http://web.mta.info/nyct/service/,280,Wakefield - 241st St,POINT,-73.85062,40.9
+http://web.mta.info/nyct/service/,281,Botanic Garden,POINT,-73.95924,40.67
+http://web.mta.info/nyct/service/,282,Bushwick - Aberdeen,POINT,-73.90526,40.68
+http://web.mta.info/nyct/service/,283,Broadway Junction,POINT,-73.90312,40.68
+http://web.mta.info/nyct/service/,284,Gun Hill Rd,POINT,-73.84638,40.87
+http://web.mta.info/nyct/service/,285,E 180th St,POINT,-73.87335,40.84
+http://web.mta.info/nyct/service/,286,Dyckman St,POINT,-73.92554,40.86
+http://web.mta.info/nyct/service/,287,125th St,POINT,-73.95837,40.82
+http://web.mta.info/nyct/service/,288,Franklin Ave - Fulton St,POINT,-73.95583,40.68
+http://web.mta.info/nyct/service/,289,149th St - Grand Concourse,POINT,-73.92672,40.82
+http://web.mta.info/nyct/service/,290,3rd Ave - 149th St,POINT,-73.91779,40.82
+http://web.mta.info/nyct/service/,291,167th St,POINT,-73.9214,40.84
+http://web.mta.info/nyct/service/,292,Brook Ave,POINT,-73.91924,40.81
+http://web.mta.info/nyct/service/,293,33rd St,POINT,-73.931,40.74
+http://web.mta.info/nyct/service/,294,40th St,POINT,-73.92402,40.74
+http://web.mta.info/nyct/service/,295,145th St,POINT,-73.94409,40.82
+http://web.mta.info/nyct/service/,296,155th St,POINT,-73.93821,40.83
+http://web.mta.info/nyct/service/,297,161st St - Yankee Stadium,POINT,-73.92565,40.83
+http://web.mta.info/nyct/service/,298,Utica Ave,POINT,-73.93073,40.68
+http://web.mta.info/nyct/service/,299,Steinway St,POINT,-73.92053,40.76
+http://web.mta.info/nyct/service/,300,Kosciuszko St,POINT,-73.92851,40.69
+http://web.mta.info/nyct/service/,301,Gates Ave,POINT,-73.92216,40.69
+http://web.mta.info/nyct/service/,302,Central Ave,POINT,-73.92724,40.7
+http://web.mta.info/nyct/service/,303,Knickerbocker Ave,POINT,-73.91972,40.7
+http://web.mta.info/nyct/service/,304,30th Ave,POINT,-73.92148,40.77
+http://web.mta.info/nyct/service/,305,Jefferson St,POINT,-73.92291,40.71
+http://web.mta.info/nyct/service/,306,Morgan Ave,POINT,-73.93315,40.71
+http://web.mta.info/nyct/service/,307,Queens Plz,POINT,-73.93714,40.75
+http://web.mta.info/nyct/service/,308,18th Ave,POINT,-73.97697,40.63
+http://web.mta.info/nyct/service/,309,77th St,POINT,-74.02551,40.63
+http://web.mta.info/nyct/service/,310,Bay Ridge Ave,POINT,-74.02338,40.63
+http://web.mta.info/nyct/service/,311,50th St,POINT,-73.99466,40.64
+http://web.mta.info/nyct/service/,312,Ft Hamilton Pkwy,POINT,-74.00535,40.63
+http://web.mta.info/nyct/service/,313,25th Ave,POINT,-73.98683,40.6
+http://web.mta.info/nyct/service/,314,Bay Pky,POINT,-73.99368,40.6
+http://web.mta.info/nyct/service/,315,20th Ave,POINT,-73.98452,40.62
+http://web.mta.info/nyct/service/,316,18th Ave,POINT,-73.99045,40.62
+http://web.mta.info/nyct/service/,317,Bay Ridge - 95th St,POINT,-74.03088,40.62
+http://web.mta.info/nyct/service/,318,86th St,POINT,-74.0284,40.62
+http://web.mta.info/nyct/service/,319,79th St,POINT,-74.00058,40.61
+http://web.mta.info/nyct/service/,320,71st St,POINT,-73.99884,40.62
+http://web.mta.info/nyct/service/,321,20th Ave,POINT,-73.99817,40.6
+http://web.mta.info/nyct/service/,322,18th Ave,POINT,-74.00159,40.61
+http://web.mta.info/nyct/service/,323,62nd St,POINT,-73.99686,40.63
+http://web.mta.info/nyct/service/,324,New Utrecht Ave,POINT,-73.99635,40.62
+http://web.mta.info/nyct/service/,325,Ave U,POINT,-73.97338,40.6
+http://web.mta.info/nyct/service/,326,Kings Hwy,POINT,-73.97236,40.6
+http://web.mta.info/nyct/service/,327,Brighton Beach,POINT,-73.96135,40.58
+http://web.mta.info/nyct/service/,328,Sheepshead Bay,POINT,-73.95406,40.59
+http://web.mta.info/nyct/service/,329,Ave U,POINT,-73.95581,40.6
+http://web.mta.info/nyct/service/,330,Kings Hwy,POINT,-73.95761,40.61
+http://web.mta.info/nyct/service/,331,Ave U,POINT,-73.97908,40.6
+http://web.mta.info/nyct/service/,332,Kings Hwy,POINT,-73.98037,40.6
+http://web.mta.info/nyct/service/,333,Neptune Ave,POINT,-73.97459,40.58
+http://web.mta.info/nyct/service/,334,Ave X,POINT,-73.97427,40.59
+http://web.mta.info/nyct/service/,335,Bay 50th St,POINT,-73.98377,40.59
+http://web.mta.info/nyct/service/,336,Gravesend - 86th St,POINT,-73.97819,40.59
+http://web.mta.info/nyct/service/,337,Ave P,POINT,-73.973,40.61
+http://web.mta.info/nyct/service/,338,Ave N,POINT,-73.97405,40.61
+http://web.mta.info/nyct/service/,339,Bay Pky,POINT,-73.97526,40.62
+http://web.mta.info/nyct/service/,340,Ave M,POINT,-73.95924,40.62
+http://web.mta.info/nyct/service/,341,Bay Pky,POINT,-73.98178,40.61
+http://web.mta.info/nyct/service/,342,Ave I,POINT,-73.97607,40.63
+http://web.mta.info/nyct/service/,343,Ave J,POINT,-73.96069,40.63
+http://web.mta.info/nyct/service/,344,Ave H,POINT,-73.96152,40.63
+http://web.mta.info/nyct/service/,345,Neck Rd,POINT,-73.95508,40.6
+http://web.mta.info/nyct/service/,346,21st St - Queensbridge,POINT,-73.94194,40.75
+http://web.mta.info/nyct/service/,347,50th St,POINT,-73.98598,40.76
+http://web.mta.info/nyct/service/,348,7th Ave,POINT,-73.9817,40.76
+http://web.mta.info/nyct/service/,349,47th-50th Sts - Rockefeller Ctr,POINT,-73.98133,40.76
+http://web.mta.info/nyct/service/,350,57th St,POINT,-73.97737,40.76
+http://web.mta.info/nyct/service/,351,Lexington Ave - 63rd St,POINT,-73.96609,40.76
+http://web.mta.info/nyct/service/,352,Roosevelt Island - Main St,POINT,-73.95323,40.76
+http://web.mta.info/nyct/service/,353,59th St - Columbus Circle,POINT,-73.98165,40.77
+http://web.mta.info/nyct/service/,354,49th St,POINT,-73.98421,40.76
+http://web.mta.info/nyct/service/,355,57th St,POINT,-73.98073,40.76
+http://web.mta.info/nyct/service/,356,5th Ave - 59th St,POINT,-73.97335,40.76
+http://web.mta.info/nyct/service/,357,Lexington Ave - 59th St,POINT,-73.96738,40.76
+http://web.mta.info/nyct/service/,358,34th St - Penn Station,POINT,-73.99106,40.75
+http://web.mta.info/nyct/service/,359,Times Sq - 42nd St,POINT,-73.9875,40.76
+http://web.mta.info/nyct/service/,360,Fulton St,POINT,-74.00762,40.71
+http://web.mta.info/nyct/service/,361,Chambers St,POINT,-74.00858,40.71
+http://web.mta.info/nyct/service/,362,42nd St - Port Authority Bus Term,POINT,-73.98974,40.76
+http://web.mta.info/nyct/service/,363,Myrtle-Willoughby Aves,POINT,-73.94907,40.69
+http://web.mta.info/nyct/service/,364,Flushing Ave,POINT,-73.95023,40.7
+http://web.mta.info/nyct/service/,365,23rd St,POINT,-73.99277,40.74
+http://web.mta.info/nyct/service/,366,Herald Sq - 34th St,POINT,-73.98777,40.75
+http://web.mta.info/nyct/service/,367,Hoyt - Schermerhorn Sts,POINT,-73.98504,40.69
+http://web.mta.info/nyct/service/,368,Jay St - MetroTech,POINT,-73.98722,40.69
+http://web.mta.info/nyct/service/,369,East Broadway,POINT,-73.99018,40.71
+http://web.mta.info/nyct/service/,370,Delancey St - Essex St,POINT,-73.98808,40.72
+http://web.mta.info/nyct/service/,371,Lower East Side - 2nd Ave,POINT,-73.98994,40.72
+http://web.mta.info/nyct/service/,372,Flushing Ave,POINT,-73.94138,40.7
+http://web.mta.info/nyct/service/,373,Myrtle Ave,POINT,-73.93562,40.7
+http://web.mta.info/nyct/service/,374,4th Av - 9th St,POINT,-73.98978,40.67
+http://web.mta.info/nyct/service/,375,Smith - 9th Sts,POINT,-73.99589,40.67
+http://web.mta.info/nyct/service/,376,Bergen St,POINT,-73.99076,40.69
+http://web.mta.info/nyct/service/,377,Jay St - MetroTech,POINT,-73.98606,40.69
+http://web.mta.info/nyct/service/,378,Court St,POINT,-73.99182,40.69
+http://web.mta.info/nyct/service/,379,Union Sq - 14th St,POINT,-73.99054,40.74
+http://web.mta.info/nyct/service/,380,23rd St,POINT,-73.98934,40.74
+http://web.mta.info/nyct/service/,381,Prospect Ave,POINT,-73.99287,40.67
+http://web.mta.info/nyct/service/,382,4th Av - 9th St,POINT,-73.9883,40.67
+http://web.mta.info/nyct/service/,383,3rd Ave,POINT,-73.98575,40.73
+http://web.mta.info/nyct/service/,384,Union Sq - 14th St,POINT,-73.99067,40.73
+http://web.mta.info/nyct/service/,385,Liberty Ave,POINT,-73.89655,40.67
+http://web.mta.info/nyct/service/,386,Broadway Junction,POINT,-73.90532,40.68
+http://web.mta.info/nyct/service/,387,59th St,POINT,-74.01788,40.64
+http://web.mta.info/nyct/service/,388,45th St,POINT,-74.01001,40.65
+http://web.mta.info/nyct/service/,389,36th St,POINT,-74.00355,40.66
+http://web.mta.info/nyct/service/,390,9th Ave,POINT,-73.99445,40.65
+http://web.mta.info/nyct/service/,391,53rd St,POINT,-74.01403,40.65
+http://web.mta.info/nyct/service/,392,Ft Hamilton Pkwy,POINT,-73.9942,40.64
+http://web.mta.info/nyct/service/,393,25th St,POINT,-73.99809,40.66
+http://web.mta.info/nyct/service/,394,Carroll St,POINT,-73.99495,40.68
+http://web.mta.info/nyct/service/,395,Spring St,POINT,-74.00374,40.73
+http://web.mta.info/nyct/service/,396,181st St,POINT,-73.93797,40.85
+http://web.mta.info/nyct/service/,397,190th St,POINT,-73.93418,40.86
+http://web.mta.info/nyct/service/,398,116th St,POINT,-73.9548,40.81
+http://web.mta.info/nyct/service/,399,125th St,POINT,-73.95225,40.81
+http://web.mta.info/nyct/service/,400,Prince St,POINT,-73.9977,40.72
+http://web.mta.info/nyct/service/,401,8th St - NYU,POINT,-73.99251,40.73
+http://web.mta.info/nyct/service/,402,Fulton St,POINT,-74.00657,40.71
+http://web.mta.info/nyct/service/,403,Park Pl,POINT,-74.00881,40.71
+http://web.mta.info/nyct/service/,404,Chambers St,POINT,-74.00927,40.72
+http://web.mta.info/nyct/service/,405,Hoyt St,POINT,-73.98506,40.69
+http://web.mta.info/nyct/service/,406,Borough Hall,POINT,-73.99,40.69
+http://web.mta.info/nyct/service/,407,183rd St,POINT,-73.90388,40.86
+http://web.mta.info/nyct/service/,408,Fordham Rd,POINT,-73.90103,40.86
+http://web.mta.info/nyct/service/,409,World Trade Center,POINT,-74.00974,40.71
+http://web.mta.info/nyct/service/,410,Canal St - Holland Tunnel,POINT,-74.00523,40.72
+http://web.mta.info/nyct/service/,411,155th St,POINT,-73.94151,40.83
+http://web.mta.info/nyct/service/,412,163rd St - Amsterdam Av,POINT,-73.93989,40.84
+http://web.mta.info/nyct/service/,413,Fulton St,POINT,-74.00794,40.71
+http://web.mta.info/nyct/service/,414,Chambers St,POINT,-74.00341,40.71
+http://web.mta.info/nyct/service/,415,Canal St,POINT,-73.99983,40.72
+http://web.mta.info/nyct/service/,416,City Hall,POINT,-74.00699,40.71
+http://web.mta.info/nyct/service/,417,Canal St,POINT,-74.00183,40.72
+http://web.mta.info/nyct/service/,418,South Ferry,POINT,-74.01317,40.7
+http://web.mta.info/nyct/service/,419,Bowling Green,POINT,-74.01401,40.7
+http://web.mta.info/nyct/service/,420,Wall St,POINT,-74.01186,40.71
+http://web.mta.info/nyct/service/,421,Whitehall St,POINT,-74.01301,40.7
+http://web.mta.info/nyct/service/,422,Rector St,POINT,-74.01297,40.71
+http://web.mta.info/nyct/service/,423,Fresh Pond Rd,POINT,-73.8959,40.71
+http://web.mta.info/nyct/service/,424,Middle Village - Metropolitan Ave,POINT,-73.88958,40.71
+http://web.mta.info/nyct/service/,425,Rector St,POINT,-74.01378,40.71
+http://web.mta.info/nyct/service/,426,Cortlandt St,POINT,-74.01219,40.71
+http://web.mta.info/nyct/service/,427,Fulton St,POINT,-74.00951,40.71
+http://web.mta.info/nyct/service/,428,Broad St,POINT,-74.01106,40.71
+http://web.mta.info/nyct/service/,429,Cortlandt St,POINT,-74.01113,40.71
+http://web.mta.info/nyct/service/,430,Wall St,POINT,-74.0091,40.71
+http://web.mta.info/nyct/service/,431,Dyckman St,POINT,-73.92727,40.87
+http://web.mta.info/nyct/service/,432,Grand St,POINT,-73.99375,40.72
+http://web.mta.info/nyct/service/,433,Broadway - Lafayette St,POINT,-73.9962,40.73
+http://web.mta.info/nyct/service/,434,Bowery,POINT,-73.99381,40.72
+http://web.mta.info/nyct/service/,435,Canal St,POINT,-74.00105,40.72
+http://web.mta.info/nyct/service/,436,23rd St,POINT,-73.99804,40.75
+http://web.mta.info/nyct/service/,437,34th St - Penn Station,POINT,-73.99339,40.75
+http://web.mta.info/nyct/service/,438,Jackson Hts - Roosevelt Av,POINT,-73.8913,40.75
+http://web.mta.info/nyct/service/,439,14th St,POINT,-74.0002,40.74
+http://web.mta.info/nyct/service/,440,135th St,POINT,-73.94753,40.82
+http://web.mta.info/nyct/service/,441,14th St,POINT,-73.99621,40.74
+http://web.mta.info/nyct/service/,442,6th Ave,POINT,-73.99775,40.74
+http://web.mta.info/nyct/service/,443,8th Ave,POINT,-74.00258,40.74
+http://web.mta.info/nyct/service/,444,14th St,POINT,-74.00169,40.74
+http://web.mta.info/nyct/service/,445,Nostrand Ave,POINT,-73.95043,40.67
+http://web.mta.info/nyct/service/,446,Clark St,POINT,-73.99309,40.7
+http://web.mta.info/nyct/service/,447,Franklin Ave,POINT,-73.95685,40.68
+http://web.mta.info/nyct/service/,448,Clinton - Washington Aves,POINT,-73.96584,40.68
+http://web.mta.info/nyct/service/,449,Forest Ave,POINT,-73.90308,40.7
+http://web.mta.info/nyct/service/,450,110th St,POINT,-73.94425,40.8
+http://web.mta.info/nyct/service/,451,86th St,POINT,-73.95559,40.78
+http://web.mta.info/nyct/service/,452,York St,POINT,-73.98688,40.7
+http://web.mta.info/nyct/service/,453,High St,POINT,-73.99053,40.7
+http://web.mta.info/nyct/service/,454,Lafayette Ave,POINT,-73.97395,40.69
+http://web.mta.info/nyct/service/,455,President St,POINT,-73.95059,40.67
+http://web.mta.info/nyct/service/,456,Woodlawn,POINT,-73.87875,40.89
+http://web.mta.info/nyct/service/,457,Bleecker St,POINT,-73.99466,40.73
+http://web.mta.info/nyct/service/,458,103rd St,POINT,-73.94748,40.79
+http://web.mta.info/nyct/service/,459,Euclid Ave,POINT,-73.87211,40.68
+http://web.mta.info/nyct/service/,460,88th St,POINT,-73.85147,40.68
+http://web.mta.info/nyct/service/,461,Cortelyou Rd,POINT,-73.96379,40.64
+http://web.mta.info/nyct/service/,462,116th St,POINT,-73.94162,40.8
+http://web.mta.info/nyct/service/,463,Parkchester,POINT,-73.86082,40.83
+http://web.mta.info/nyct/service/,464,Franklin St,POINT,-74.00689,40.72
+http://web.mta.info/nyct/service/,465,80th St,POINT,-73.85899,40.68
+http://web.mta.info/nyct/service/,466,5th Ave - Bryant Pk,POINT,-73.98196,40.75
+http://web.mta.info/nyct/service/,467,Spring St,POINT,-73.99714,40.72
+http://web.mta.info/nyct/service/,468,125th St,POINT,-73.93759,40.8
+http://web.mta.info/nyct/service/,469,Coney Island - Stillwell Av,POINT,-73.98124,40.58
+http://web.mta.info/nyct/service/,470,34th St - Hudson Yards,POINT,-74.0022,40.76
+http://web.mta.info/nyct/service/,641,72nd St,POINT,-73.95836,40.77
+http://web.mta.info/nyct/service/,642,86th St,POINT,-73.95177,40.78
+http://web.mta.info/nyct/service/,643,96th St,POINT,-73.94707,40.78
